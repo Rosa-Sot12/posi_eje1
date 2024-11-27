@@ -1,0 +1,19 @@
+.primero{
+    text-align: center;
+    background-color: #ADD9E6;
+    left: 20px;
+    height: 120px;
+    position: relative;
+    top: 30px;
+    width: 120px;
+}
+
+.segundo{
+    text-align: center;
+    background-color: #90ee90;
+    bottom: 20px;
+    height: 120px;
+    position: absolute;
+    right: 30px;
+    width: 120px;
+}
